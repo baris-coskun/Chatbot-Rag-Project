@@ -1,0 +1,134 @@
+============================================================
+GEN DIGITAL - COMPANY OVERVIEW
+============================================================
+
+Gen Digital is a global company dedicated to powering digital freedom through its trusted consumer brands, including Avast, AVG, CCleaner, Norton, LifeLock and MoneyLion.
+
+Core Mission: Deliver award-winning cybersecurity, online privacy, identity protection and financial wellness solutions to consumers worldwide.
+
+User Base: Nearly 500 million users in more than 150 countries.
+Company Type: Global consumer SaaS security company
+Key Brands: Avast, AVG, CCleaner, Norton, LifeLock, MoneyLion
+
+============================================================
+PRODUCTS AND BRANDS
+============================================================
+
+--- Avast ---
+
+Avast is a leading cybersecurity product providing free and premium antivirus and internet security solutions. It is one of Gen Digital's core freemium products, offering protection against malware, ransomware, phishing, and other online threats.
+
+--- AVG ---
+
+AVG is a trusted cybersecurity brand offering antivirus, internet security, and performance optimization tools. Like Avast, AVG operates on a freemium model, bringing users into the ecosystem through free products and converting them into paying customers through smart in-product journeys.
+
+--- CCleaner ---
+
+CCleaner is a widely used system optimization and cleaning tool that helps users improve the performance and privacy of their devices. It is another core freemium product in Gen Digital's portfolio, with upsell and cross-sell opportunities.
+
+--- Norton ---
+
+Norton is a premium cybersecurity brand providing comprehensive protection against online threats including viruses, malware, ransomware, and identity theft. Norton offers advanced security features for individuals and families.
+
+--- LifeLock ---
+
+LifeLock is an identity theft protection service that monitors personal information and alerts users to potential threats. It provides identity restoration support and financial protection.
+
+--- MoneyLion ---
+
+MoneyLion is a financial wellness platform providing solutions for personal finance management, banking, and financial health.
+
+============================================================
+BUSINESS MODEL - FREEMIUM GROWTH
+============================================================
+
+Gen Digital operates a freemium business model across its key brands (Avast, AVG, CCleaner):
+
+Growth Strategy:
+- Bring people into free products (Avast, AVG, CCleaner)
+- Convert the right users into happy paying customers
+- Smart in-product journeys for upsell and cross-sell
+- Data-driven experimentation to improve conversion and revenue
+
+The Freemium Growth team works within the Customer Success Management (CSM) organisation and focuses on:
+- User acquisition into free products
+- Conversion optimization from free to paid
+- In-product experience improvements
+- Cross-sell and upsell strategies
+
+The team works closely with Product, Engineering, Data and CSM departments and is building AI-driven ways of working to move faster and run more experiments.
+
+============================================================
+AI AND INNOVATION
+============================================================
+
+Gen Digital is actively integrating AI across its operations:
+
+AI-Driven Initiatives:
+- AI-powered workflows to increase team effectiveness
+- Automation of operational tasks
+- AI-assisted experimentation (content variants, operational workflows)
+- Systematic integration of AI into business processes
+- Focus on connecting AI work to business outcomes (speed, quality, conversion, revenue)
+
+Gen Digital looks for people who see AI as a core part of how they work, and who are excited to apply it to real products and growth challenges.
+
+============================================================
+INDUSTRIES AND FOCUS AREAS
+============================================================
+
+Primary Focus Areas:
+- Cybersecurity: Award-winning protection against online threats
+- Online Privacy: Tools and services to protect user privacy
+- Identity Protection: Monitoring and safeguarding personal information
+- Financial Wellness: Solutions for personal finance and financial health
+
+Target Audience:
+- Individual consumers
+- Families
+- Small businesses
+- Users in more than 150 countries worldwide
+
+============================================================
+CULTURE AND CAREERS
+============================================================
+
+Company Culture:
+- Global company with offices worldwide, including Prague
+- Cross-functional collaboration between Product, Engineering, Data, Marketing and CSM teams
+- Emphasis on AI-driven ways of working
+- Focus on experimentation and data-driven decisions
+- Clear communication across teams in English
+
+Development Programs:
+- AI Operations Internship: 10-week full-time internship program
+- Hands-on work with real business use cases
+- Collaboration with stakeholders across product, marketing, CSM and engineering
+- Opportunity to continue part-time after internship
+
+Internship Focus Areas:
+- Prototyping and improving AI-assisted workflows
+- Supporting experiments with simple tools and automations
+- Documenting work for team reuse
+- Connecting AI work to business outcomes
+
+Ideal Candidate Profile:
+- Students in technical or analytical fields (Computer Science, Data Science, Engineering, Economics/Business with analytics)
+- Active users of AI tools, LLMs, and agents
+- Interest in automation, workflows, and experimentation
+- Comfortable communicating with different teams in English
+- Curious about how AI can change freemium business operations
+
+============================================================
+TECHNICAL DETAILS
+============================================================
+
+Gen Digital's technology stack supports:
+- Consumer SaaS applications at global scale
+- AI and machine learning integration
+- Data-driven experimentation platforms
+- Freemium conversion optimization
+- Cross-platform security solutions (desktop, mobile, web)
+- Real-time threat detection and response
+- Identity monitoring systems
+- Financial wellness platforms
